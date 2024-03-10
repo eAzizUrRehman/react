@@ -6,7 +6,7 @@ This repository is a sub-repository of [Notes](https://github.com/eAzizUrRehman/
 
 This repository contains all projects related to React. It has the following directories:
 
-### [**Code With Harry**](./code-with-harry)
+### [**Chai Aur Code**](./code-with-harry)
 
 | S.No | Project                                                                      |
 | ---- | ---------------------------------------------------------------------------- |
